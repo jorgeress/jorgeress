@@ -14,5 +14,6 @@ Desarrollador de software con un fuerte enfoque en **sistemas seguros** y **desa
 
 
 ---
+### 🔗 Conecta conmigo:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgarciamartinezdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292 )
