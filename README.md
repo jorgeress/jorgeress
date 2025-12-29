@@ -11,8 +11,7 @@ Desarrollador de software con un fuerte enfoque en **sistemas seguros** y **desa
 - **Backend:** Java (POO) y Python (Scripting y Automatización).
 - **Frontend:** React y Next.js (Integración de APIs como Spotify).
 
-### 📊 Estadísticas de GitHub
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
 
 ---
 📫 **Contacto:** [jgarciamartinezdev@gmail.com](mailto:jgarciamartinezdev@gmail.com)
