@@ -1,6 +1,6 @@
 # ¡Hola! Soy Jorge García Martínez 👋
 
-Desarrollador de software con un fuerte enfoque en **sistemas seguros** y **desarrollo eficiente**. Actualmente ampliando mis conocimientos en el mundo de la **Ciberseguridad**.
+"Me apasiona entender cómo funcionan las cosas, desde la lógica de Java hasta la memoria en C/C++. Actualmente estoy sumergido en el mundo de la Ciberseguridad, uniendo mi base de desarrollo con la protección de sistemas. Siempre estoy buscando el siguiente reto para seguir aprendiendo."
 
 ### 🛡️ Ciberseguridad & Sistemas
 - **Especialización:** Actualmente cursando especialización en Ciberseguridad.
@@ -10,12 +10,12 @@ Desarrollador de software con un fuerte enfoque en **sistemas seguros** y **desa
 ### 🚀 Desarrollo de Software
 
 **Backend & Scripting:**
-- **Java:** Programación Orientada a Objetos (POO) y lógica de negocio.
+- **Java:** Programación Orientada a Objetos y lógica de negocio.
 - **Python:** Automatización, scripting y herramientas de seguridad.
 
 **Frontend:**
 - **Tecnologías Core:** Dominio de **HTML5**, **CSS3** y **JavaScript (ES6+)**.
-- **Frameworks:** Especializado en **React** y **Next.js** (Integración de APIs como Spotify).
+- **Frameworks:** Especializado en **React** y **Next.js**.
 
 ---
 
