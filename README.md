@@ -5,13 +5,19 @@ Desarrollador de software con un fuerte enfoque en **sistemas seguros** y **desa
 ### 🛡️ Ciberseguridad & Sistemas
 - **Especialización:** Actualmente cursando especialización en Ciberseguridad.
 - **OS:** Usuario y administrador de entornos **Linux**.
-- **Lenguajes de bajo nivel:** Experiencia con C y C++ para optimización y sistemas.
+- **Lenguajes de bajo nivel:** Experiencia con **C** y **C++** para optimización y seguridad.
 
 ### 🚀 Desarrollo de Software
-- **Backend:** Java (POO) y Python (Scripting y Automatización).
-- **Frontend:** React y Next.js (Integración de APIs como Spotify).
 
+**Backend & Scripting:**
+- **Java:** Programación Orientada a Objetos (POO) y lógica de negocio.
+- **Python:** Automatización, scripting y herramientas de seguridad.
 
+**Frontend:**
+- **Tecnologías Core:** Dominio de **HTML5**, **CSS3** y **JavaScript (ES6+)**.
+- **Frameworks:** Especializado en **React** y **Next.js** (Integración de APIs como Spotify).
+
+---
 
 ---
 ### 🔗 Conecta conmigo:
