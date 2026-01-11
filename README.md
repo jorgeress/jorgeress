@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jorge García Martínez 
+# ¡Hola! 👋 Soy Jorge García Martínez 
 
 "Me apasiona entender cómo funcionan las cosas, desde la lógica de Java hasta la memoria en C/C++. Actualmente estoy sumergido en el mundo de la Ciberseguridad, uniendo mi base de desarrollo con la protección de sistemas. Siempre estoy buscando el siguiente reto para seguir aprendiendo."
 
