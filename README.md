@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Jorge García Martínez 
 
-Estudiante de U-tad como ingeniero de software y especialización en ciberseguridad. ⬇️⬇️⬇️
+Estudiante de U-tad como ingeniero de software y especialización en ciberseguridad.
 
 ### 🛡️ Ciberseguridad & Sistemas
 - **Especialización:** Actualmente cursando especialización en Ciberseguridad.
