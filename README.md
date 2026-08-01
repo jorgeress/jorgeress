@@ -1,25 +1,24 @@
-# ¡Hola! 👋 Soy Jorge García Martínez 
+# ¡Hola! 👋 Soy Jorge García Martínez
 
-Estudiante de U-tad como ingeniero de software y especialización en ciberseguridad.
+Estudio Ingeniería de Software en U-tad y estoy cursando la especialización en Ciberseguridad.
 
-### 🛡️ Ciberseguridad & Sistemas
-- **Especialización:** Actualmente cursando especialización en Ciberseguridad.
-- **OS:** Usuario y administrador de entornos **Linux**.
-- **Lenguajes de bajo nivel:** Experiencia con **C** y **C++** para optimización y seguridad.
+Me muevo entre dos terrenos que acaban tocándose. Por un lado la seguridad y los sistemas, donde vivo en Linux y bajo a C y C++ cuando hace falta entender qué pasa de verdad por debajo. Por otro el desarrollo, que suele empezar porque necesito una herramienta que no existe y termino escribiéndola en Python o montándole una interfaz en React.
 
-### 🚀 Desarrollo de Software
+### Con lo que trabajo
 
-**Backend & Scripting:**
-- **Java:** Programación Orientada a Objetos y lógica de negocio.
-- **Python:** Automatización, scripting y herramientas de seguridad.
+Sistemas y bajo nivel: Linux, C, C++
 
-**Frontend:**
-- **Tecnologías Core:** Dominio de **HTML5**, **CSS3** y **JavaScript (ES6+)**.
-- **Frameworks:** Especializado en **React** y **Next.js**.
+Backend: Java, Python
 
----
+Frontend: JavaScript (ES6+), React, Next.js
+
+### Algo que he construido
+
+[**CIBO**](https://github.com/jorgeress/cibo-project) es un asistente de IA que corre entero en local sobre Ollama. Sabe cuándo tirar de una calculadora real en vez de inventarse los números, ejecuta código Python en un subproceso aislado y tiene una capa que impide que los datos sensibles salgan del equipo. Lo empecé para entender cómo funciona un LLM por dentro en lugar de quedarme en usarlo. Está en pausa, y en el README explico por qué.
 
 ---
-### 🔗 Conecta conmigo:
+
+### 🔗 Conecta conmigo
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgarciamartinezdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292)
