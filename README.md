@@ -15,20 +15,18 @@ Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos sali
 
 ### Lo que he construido
 
-**[yardstick](https://github.com/jorgeress/yardstick)** — motor de triaje estático de malware y banco de pruebas para reglas YARA.
+**[yardstick](https://github.com/jorgeress/yardstick)** : motor de triaje estático de malware y banco de pruebas para reglas YARA.
 Cualquiera puede lanzar `yara reglas.yar muestra.exe`. Lo que distingue a un analista es saber cuánto vale esa regla: cuántos falsos positivos suelta contra software legítimo y qué detecta de verdad. Aquí eso es un número reproducible. El harness midió un 12,18 % de falsos positivos sobre 52 binarios firmados y legítimos, y guió el rediseño regla a regla hasta dejarlo en 0 % sin perder detección. Cada cambio está justificado con datos, no con intuición.
 
-**[CIBO](https://github.com/jorgeress/cibo-project)** — asistente de IA que corre entero en local sobre Ollama.
+**[CIBO](https://github.com/jorgeress/cibo-project)** : asistente de IA que corre entero en local sobre Ollama.
 Sabe cuándo tirar de una calculadora real en vez de inventarse los números, ejecuta código Python en un subproceso aislado y lleva una capa que impide que los datos sensibles salgan del equipo. Lo empecé para entender cómo funciona un LLM por dentro en lugar de quedarme en usarlo. Está en pausa, y en el README explico por qué.
 
-**[Spotify Playlist Builder](https://github.com/jorgeress/spotify-playlist-builder)** — generador de playlists en Next.js.
+**[Spotify Playlist Builder](https://github.com/jorgeress/spotify-playlist-builder)** : generador de playlists en Next.js.
 Filtras por artista, género, década y popularidad, revisas el resultado en el navegador y lo guardas en tu cuenta real. OAuth 2.0 con refresco automático de token y el intercambio pasando por rutas de servidor, para que el client secret no acabe nunca en el navegador.
 
-**[Pipeline de vídeo faceless](https://github.com/jorgeress/botYoutube)** — de un guion en texto plano a un vídeo montado.
+**[Pipeline de vídeo faceless](https://github.com/jorgeress/botYoutube)** : de un guion en texto plano a un vídeo montado.
 Voz, imágenes, subtítulos y ensamblado final. Lo monté porque grabar la narración y buscar una imagen por frase es lo que convierte un vídeo de ocho minutos en un día entero de trabajo. El guion y el criterio siguen siendo míos, que es donde está el valor. Cada paso es idempotente: puedes cortar por la mitad y retomar.
 
-**[audio2resolve](https://github.com/jorgeress/audio2resolve)** — el más pequeño y el que más uso.
-DaVinci Resolve en Linux no trae los decodificadores de AAC, así que los audios del móvil entran mudos o con la duración mal. Esto los pasa a WAV PCM de un comando, sin tocar los originales.
 
 También hay por aquí una **[DCGAN entrenada desde cero](https://github.com/jorgeress/generador-pokemons-gan)** durante 10.000 épocas para generar sprites de Pokémon, que acabó siendo sobre todo un ejercicio de pelearse con el mode collapse, y una **[mediateca en Obsidian](https://github.com/jorgeress/mediateca)** publicada como web estática con los juegos, películas, libros y discos que me han gustado.
 
