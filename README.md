@@ -4,15 +4,15 @@ Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguri
 
 Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos salieron de un problema mío concreto, y en los README está también lo que no llegó a funcionar.
 
-### Con lo que trabajo
+### Con lo que trabajo:
 
-**Sistemas y bajo nivel** · Linux · C · C++ · Bash
+**Sistemas y bajo nivel**: · Linux · C · C++ · Bash
 
-**Backend** · Python · Java
+**Backend**: · Python · Java
 
-**Frontend** · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind
+**Frontend**: · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind
 
-**Otros** · YARA · TensorFlow · ffmpeg · Wayland / Hyprland
+**Otros**: · YARA · TensorFlow · ffmpeg · Wayland / Hyprland
 
 ### Lo que he construido
 
