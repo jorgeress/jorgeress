@@ -1,4 +1,4 @@
-# Jorge García Martínez
+# > Jorge <
 
 Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad.
 
