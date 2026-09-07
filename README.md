@@ -21,10 +21,10 @@ Cualquiera puede lanzar `yara reglas.yar muestra.exe`. Lo que distingue a un ana
 **[CIBO](https://github.com/jorgeress/cibo-project)** : asistente de IA que corre entero en local sobre Ollama.
 Sabe cuándo tirar de una calculadora real en vez de inventarse los números, ejecuta código Python en un subproceso aislado y lleva una capa que impide que los datos sensibles salgan del equipo. Lo empecé para entender cómo funciona un LLM por dentro en lugar de quedarme en usarlo. Está en pausa, y en el README explico por qué.
 
-**[Spotify Playlist Builder](https://github.com/jorgeress/spotify-playlist-builder)** : generador de playlists en Next.js.
+**[Pinchadiscos](https://github.com/jorgeress/spotify-playlist-builder)** : generador de playlists en Next.js.
 Filtras por artista, género, década y popularidad, revisas el resultado en el navegador y lo guardas en tu cuenta real. OAuth 2.0 con refresco automático de token y el intercambio pasando por rutas de servidor, para que el client secret no acabe nunca en el navegador.
 
-**[Pipeline de vídeo faceless](https://github.com/jorgeress/botYoutube)** : de un guion en texto plano a un vídeo montado.
+**[Garabato](https://github.com/jorgeress/botYoutube)** : de un guion en texto plano a un vídeo montado.
 Voz, imágenes, subtítulos y ensamblado final. Lo monté porque grabar la narración y buscar una imagen por frase es lo que convierte un vídeo de ocho minutos en un día entero de trabajo. El guion y el criterio siguen siendo míos, que es donde está el valor. Cada paso es idempotente: puedes cortar por la mitad y retomar.
 
 
