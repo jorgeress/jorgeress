@@ -42,7 +42,7 @@ Actualmente desarrollando una app (secreto).
 
 ---
 
-### 🔗 Conecta conmigo
+### --> Conecta conmigo <--
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgarciamartinezdev@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292)
