@@ -7,9 +7,12 @@ Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos sali
 ### Con lo que trabajo
 
 **Sistemas y bajo nivel** · Linux · C · C++ · Bash
+
 **Backend** · Python · Java
-**Frontend** · JavaScript (ES6+) · React · Next.js · Tailwind
-**Otros** · YARA · TensorFlow · ffmpeg · Wayland / Hyprland · pywal
+
+**Frontend** · JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind
+
+**Otros** · YARA · TensorFlow · ffmpeg · Wayland / Hyprland
 
 ### Lo que he construido
 
