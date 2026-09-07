@@ -2,7 +2,7 @@
 
 Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad.
 
-Me muevo en dos terrenos que acaban tocándose: construir cosas y entender cómo se rompen. Lo primero suele empezar porque necesito una herramienta que no existe, y termina en Python o con una interfaz en React. Lo segundo pasa en Linux, y baja a C cuando hace falta ver qué ocurre de verdad por debajo.
+Construyo y rompo cosas
 
 Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos salieron de un problema mío concreto, y en los README está también lo que no llegó a funcionar.
 
