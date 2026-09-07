@@ -15,7 +15,7 @@ Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos sali
 
 ### Lo que he construido
 
-**[yardstick](https://github.com/jorgeress/yardstick)** : motor de triaje estático de malware y banco de pruebas para reglas YARA.
+**[Crisol](https://github.com/jorgeress/yardstick)** : motor de triaje estático de malware y banco de pruebas para reglas YARA.
 Cualquiera puede lanzar `yara reglas.yar muestra.exe`. Lo que distingue a un analista es saber cuánto vale esa regla: cuántos falsos positivos suelta contra software legítimo y qué detecta de verdad. Aquí eso es un número reproducible. El harness midió un 12,18 % de falsos positivos sobre 52 binarios firmados y legítimos, y guió el rediseño regla a regla hasta dejarlo en 0 % sin perder detección. Cada cambio está justificado con datos, no con intuición.
 
 **[CIBO](https://github.com/jorgeress/cibo-project)** : asistente de IA que corre entero en local sobre Ollama.
