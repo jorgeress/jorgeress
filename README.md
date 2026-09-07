@@ -1,8 +1,6 @@
 # > Jorge <
 
-Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad.
-
-Construyo y rompo cosas
+Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad. Construyo y rompo cosas.
 
 Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos salieron de un problema mío concreto, y en los README está también lo que no llegó a funcionar.
 
