@@ -1,8 +1,7 @@
 # > Jorge <
 
-Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad. Construyo y rompo cosas.
+Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad. A veces se me ocurren cosas
 
-Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos salieron de un problema mío concreto, y en los README está también lo que no llegó a funcionar.
 
 ---
 
@@ -18,7 +17,7 @@ Nada de lo que hay aquí abajo es un tutorial seguido hasta el final. Todos sali
 
 ---
 
-### Lo que he construido
+### Proyectos que he hecho
 
 **[Crisol](https://github.com/jorgeress/crisol)** : motor de triaje estático de malware y banco de pruebas para reglas YARA.
 Cualquiera puede lanzar `yara reglas.yar muestra.exe`. Lo que distingue a un analista es saber cuánto vale esa regla: cuántos falsos positivos suelta contra software legítimo y qué detecta de verdad. Aquí eso es un número reproducible. El harness midió un 12,18 % de falsos positivos sobre 52 binarios firmados y legítimos, y guió el rediseño regla a regla hasta dejarlo en 0 % sin perder detección. Cada cambio está justificado con datos, no con intuición.
