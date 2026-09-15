@@ -23,19 +23,20 @@ Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguri
 Cualquiera puede lanzar `yara reglas.yar muestra.exe`. Lo que distingue a un analista es saber cuánto vale esa regla: cuántos falsos positivos suelta contra software legítimo y qué detecta de verdad. Aquí eso es un número reproducible. El harness midió un 12,18 % de falsos positivos sobre 52 binarios firmados y legítimos, y guió el rediseño regla a regla hasta dejarlo en 0 % sin perder detección. Cada cambio está justificado con datos, no con intuición.
 
 **[CIBO](https://github.com/jorgeress/cibo)** : asistente de IA que corre entero en local sobre Ollama.
-Sabe cuándo tirar de una calculadora real en vez de inventarse los números, ejecuta código Python en un subproceso aislado y lleva una capa que impide que los datos sensibles salgan del equipo. Lo empecé para entender cómo funciona un LLM por dentro en lugar de quedarme en usarlo. Está en pausa, y en el README explico por qué.
+Sabe cuándo tirar de una calculadora real en vez de inventarse los números, ejecuta código Python en un subproceso aislado y lleva una capa que impide que los datos sensibles salgan del equipo. Lo empecé para entender cómo funciona un LLM por dentro en lugar de quedarme en usarlo.
 
 **[Pinchadiscos](https://github.com/jorgeress/pinchadiscos)** : generador de playlists en Next.js.
 Filtras por artista, género, década y popularidad, revisas el resultado en el navegador y lo guardas en tu cuenta real. OAuth 2.0 con refresco automático de token y el intercambio pasando por rutas de servidor, para que el client secret no acabe nunca en el navegador.
 
 **[Garabato](https://github.com/jorgeress/garabato)** : de un guion en texto plano a un vídeo montado.
-Voz, imágenes, subtítulos y ensamblado final. Lo monté porque grabar la narración y buscar una imagen por frase es lo que convierte un vídeo de ocho minutos en un día entero de trabajo. El guion y el criterio siguen siendo míos, que es donde está el valor. Cada paso es idempotente: puedes cortar por la mitad y retomar.
-
+Voz, imágenes, subtítulos y ensamblado final. Lo monté porque grabar la narración y buscar una imagen por frase es lo que convierte un vídeo de ocho minutos en un día entero de trabajo. Crea guiones de acorde a unas reglas y criterios previamente establecidos y realiza todo el proceso de creación del video de forma orgánica. Cada paso es idempotente: puedes cortar por la mitad y retomar.
 
 **[Cromatóforo](https://github.com/jorgeress/cromatoforo)** : un escritorio de Arch donde todo el color sale del wallpaper.
 Cambias el fondo y la barra, el lanzador, el terminal, el prompt, las notificaciones, el editor, el navegador, Steam, Spotify y las aplicaciones GTK y Qt adoptan la paleta en la misma pasada. Diecinueve consumidores colgando de un único origen de verdad, cada uno con su plantilla: para cambiar cómo se mapea un color se toca la plantilla, nunca el config del programa final. Lo interesante no es que quede bonito, es lo que no encaja en el modelo. `qt6ct` vigila su fichero de configuración y no el esquema al que ese fichero apunta, así que regenerar la paleta no repinta nada y hay que hacerle `touch` para despertarlo. Steam solo lee su CSS al arrancar, y el script no lo reinicia a propósito: te cerraría el juego en mitad de una partida. Todo eso está documentado, trampas incluidas.
 
-También **[PokeGAN](https://github.com/jorgeress/pokegan)**, una DCGAN entrenada desde cero, durante 10.000 épocas para generar sprites de Pokémon, y estoy desarrollando un sistema de colecciones en obsidian -> **[Vitrina](https://github.com/jorgeress/vitrina)** publicada como web estática con los juegos, películas, libros y discos que me han gustado, está publicado como hacer para tener la tuya propia. 
+**[Vitrina](https://github.com/jorgeress/vitrina)**: Sistema de colecciones en obsidian -> publicada como web estática con los juegos, películas, libros y discos que me han gustado, está publicado como hacer para tener la tuya propia. 
+
+También **[PokeGAN](https://github.com/jorgeress/pokegan)**, una DCGAN entrenada desde cero, durante 10.000 épocas para generar sprites de Pokémon.
 
 Actualmente desarrollando una app (secreto).
 
