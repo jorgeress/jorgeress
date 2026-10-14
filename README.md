@@ -13,10 +13,9 @@ Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguri
 ### Con lo que trabajo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,python,java,js,ts,react,nextjs,tailwind,tensorflow,lua,git&perline=15" alt="Arch, Linux, Bash, C, C++, Python, Java, JavaScript, TypeScript, React, Next.js, Tailwind, TensorFlow, Lua, Git">
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,python,java,js,ts,react,nextjs,git&perline=15" alt="Arch, Linux, Bash, C, C++, Python, Java, JavaScript, TypeScript, React, Next.js, Git">
 </p>
 
-Y además: YARA · ffmpeg · Ollama · Wayland / Hyprland · pywal
 
 ### Proyectos
 
