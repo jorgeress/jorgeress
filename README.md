@@ -8,9 +8,8 @@
   <a href="https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
 
-Malware, Linux y ciberseguridad. IA que corre en tu propio equipo, y si algo se repite, lo automatizo.
+Ciberseguridad, Linux y ML.
 
-Ahora aprendiendo: hardening y bastionado, machine learning, y después Rust y Go.
 
 ### Con lo que trabajo
 
