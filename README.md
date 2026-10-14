@@ -1,5 +1,5 @@
 <a href="https://jorgeress.github.io">
-  <img src="assets/header.svg" width="100%" alt="Jorge García: Ingeniería de Software y Ciberseguridad en U-tad. A veces se me ocurren cosas.">
+  <img src="assets/header.svg" width="100%" alt="Jorge García: malware, Linux y ciberseguridad. A veces se me ocurren cosas.">
 </a>
 
 <p align="center">
@@ -8,13 +8,17 @@
   <a href="https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
 
-Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad.
+Malware, Linux y ciberseguridad. IA que corre en tu propio equipo, y si algo se repite, lo automatizo.
+
+Ahora aprendiendo: hardening y bastionado, machine learning, y después Rust y Go.
+
 ### Con lo que trabajo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,python,java,js,ts,react,nextjs,git&perline=15" alt="Arch, Linux, Bash, C, C++, Python, Java, JavaScript, TypeScript, React, Next.js, Git">
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,docker,python,nodejs,express,java,postgres,mongodb,prisma,supabase,js,ts,react,nextjs,pytorch,aws,vercel,git&perline=11" alt="Arch, Linux, Bash, C, C++, Docker, Python, Node.js, Express, Java, PostgreSQL, MongoDB, Prisma, Supabase, JavaScript, TypeScript, React, Next.js, PyTorch, AWS, Vercel, Git">
 </p>
 
+Seguridad: YARA · Wireshark · Burp Suite · nmap · Metasploit
 
 ### Proyectos
 
