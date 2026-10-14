@@ -14,7 +14,7 @@ Ciberseguridad, Linux y ML.
 ### Con lo que trabajo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,docker,python,nodejs,express,java,postgres,mongodb,supabase,js,ts,react,nextjs,pytorch,aws,vercel,git&perline=11" alt="Arch, Linux, Bash, C, C++, Docker, Python, Node.js, Express, Java, PostgreSQL, MongoDB, Supabase, JavaScript, TypeScript, React, Next.js, PyTorch, AWS, Vercel, Git">
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,docker,python,nodejs,java,postgres,mongodb,js,ts,react,nextjs,pytorch,aws,git&perline=11" alt="Arch, Linux, Bash, C, C++, Docker, Python, Node.js, Java, PostgreSQL, MongoDB, JavaScript, TypeScript, React, Next.js, PyTorch, AWS, Git">
 </p>
 
 
