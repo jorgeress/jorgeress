@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jorge García: Ingeniería de Software + Ciberseguridad en U-tad">
+<style>
+  .nombre{font:700 76px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e8eaf0}
+  .prompt{font:400 22px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8b93a7}
+  .prompt b{fill:#3ddc97}
+  .tipo{font:400 26px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e8eaf0}
+  .cursor{fill:#c792ea;animation:parpadeo 1s steps(1) infinite}
+  .m{opacity:.45;transform-box:fill-box;transform-origin:center}
+  .m0{animation:a0 18s ease-in-out infinite alternate}@keyframes a0{to{transform:translate(-120px,60px)}}.m1{animation:a1 22s ease-in-out infinite alternate}@keyframes a1{to{transform:translate(-90px,-70px)}}.m2{animation:a2 20s ease-in-out infinite alternate}@keyframes a2{to{transform:translate(110px,-50px)}}.m3{animation:a3 16s ease-in-out infinite alternate}@keyframes a3{to{transform:translate(90px,80px)}}
+  @keyframes parpadeo{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.m,.cursor{animation:none}}
+</style>
+<defs>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <clipPath id="marco"><rect width="1200" height="320" rx="22"/></clipPath>
+  <pattern id="puntos" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#fff" fill-opacity=".07"/></pattern>
+  <linearGradient id="linea" x1="0" x2="1"><stop offset="0" stop-color="#ff7a45"/><stop offset=".33" stop-color="#c792ea"/><stop offset=".66" stop-color="#3ddc97"/><stop offset="1" stop-color="#ff4fa3"/></linearGradient>
+</defs>
+<g clip-path="url(#marco)">
+  <rect width="1200" height="320" fill="#0b0d12"/>
+  <g filter="url(#blur)"><circle class="m m0" cx="980" cy="70" r="170" fill="#ff7a45"/><circle class="m m1" cx="1120" cy="250" r="190" fill="#c792ea"/><circle class="m m2" cx="760" cy="300" r="150" fill="#3ddc97"/><circle class="m m3" cx="880" cy="160" r="120" fill="#ff4fa3"/></g>
+  <rect width="1200" height="320" fill="url(#puntos)"/>
+  <text class="prompt" x="72" y="82"><tspan fill="#3ddc97">jorge@arch</tspan> ~ $ whoami</text>
+  <text class="nombre" x="68" y="168">Jorge García</text>
+  <rect x="72" y="186" width="120" height="5" rx="2.5" fill="url(#linea)"/>
+  
+  <clipPath id="f0"><rect x="72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;765;765;0;0" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="72" y="236" clip-path="url(#f0)">Ingeniería de Software + Ciberseguridad en U-tad</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="72;72;837;837;72;72" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f1"><rect x="72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;512;512;0;0" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="72" y="236" clip-path="url(#f1)">reglas YARA medidas, no intuidas</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="72;72;584;584;72;72" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f2"><rect x="72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;718;718;0;0" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="72" y="236" clip-path="url(#f2)">un escritorio que toma el color del wallpaper</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="72;72;790;790;72;72" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f3"><rect x="72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;432;432;0;0" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="72" y="236" clip-path="url(#f3)">a veces se me ocurren cosas</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="72;72;504;504;72;72" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+</g>
+</svg>
