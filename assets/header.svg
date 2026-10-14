@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jorge García: malware, Linux y ciberseguridad">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jorge García">
 <style>
   .nombre{font:700 76px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#e8eaf0}
   .prompt{font:400 22px 'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#8b93a7}
@@ -23,38 +23,103 @@
   <text class="prompt" x="72" y="82"><tspan fill="#3ddc97">jorge@arch</tspan> ~ $ whoami</text>
   <text class="nombre" x="68" y="168">Jorge García</text>
   <rect x="72" y="186" width="120" height="5" rx="2.5" fill="url(#linea)"/>
+  <text class="prompt" x="72" y="236" style="font-size:26px">$</text>
   
-  <clipPath id="f0"><rect x="72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;496;496;0;0" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="f0"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;258;258;0;0" keyTimes="0;0.0;0.0292;0.0667;0.0833;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="72" y="236" clip-path="url(#f0)">malware, Linux y ciberseguridad</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f0)">sudo pacman -Syu</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="72;72;568;568;72;72" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite"/>
-    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0;0.0875;0.2;0.25;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="x" values="103.72;103.72;361;361;103.72;103.72" keyTimes="0;0.0;0.0292;0.0667;0.0833;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0;0.0292;0.0667;0.0833;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
-  <clipPath id="f1"><rect x="72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;512;512;0;0" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="f1"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;416;416;0;0" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="72" y="236" clip-path="url(#f1)">reglas YARA medidas, no intuidas</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f1)">yara -r reglas/ ./muestras</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="72;72;584;584;72;72" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite"/>
-    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.25;0.3375;0.45;0.5;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="x" values="103.72;103.72;520;520;103.72;103.72" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
-  <clipPath id="f2"><rect x="72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;607;607;0;0" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="f2"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;369;369;0;0" keyTimes="0;0.1667;0.1958;0.2333;0.25;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="72" y="236" clip-path="url(#f2)">IA en local, sin mandar nada a la nube</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f2)">nmap -sV 192.168.1.0/24</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="72;72;679;679;72;72" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite"/>
-    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.5;0.5875;0.7;0.75;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="x" values="103.72;103.72;472;472;103.72;103.72" keyTimes="0;0.1667;0.1958;0.2333;0.25;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.1667;0.1958;0.2333;0.25;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
-  <clipPath id="f3"><rect x="72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;432;432;0;0" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite" calcMode="linear"/>
+  <clipPath id="f3"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;496;496;0;0" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="72" y="236" clip-path="url(#f3)">a veces se me ocurren cosas</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f3)">git commit -m "arreglado, creo"</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="72;72;504;504;72;72" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite"/>
-    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.75;0.8375;0.95;1.0;1" dur="18.0s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="x" values="103.72;103.72;599;599;103.72;103.72" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f4"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;400;400;0;0" keyTimes="0;0.3333;0.3625;0.4;0.4167;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f4)">tail -f /var/log/auth.log</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;504;504;103.72;103.72" keyTimes="0;0.3333;0.3625;0.4;0.4167;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.3333;0.3625;0.4;0.4167;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f5"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;432;432;0;0" keyTimes="0;0.4167;0.4458;0.4833;0.5;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f5)">chmod 600 ~/.ssh/id_ed25519</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;536;536;103.72;103.72" keyTimes="0;0.4167;0.4458;0.4833;0.5;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.4167;0.4458;0.4833;0.5;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f6"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;321;321;0;0" keyTimes="0;0.5;0.5292;0.5667;0.5833;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f6)">docker compose up -d</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;425;425;103.72;103.72" keyTimes="0;0.5;0.5292;0.5667;0.5833;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.5;0.5292;0.5667;0.5833;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f7"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;305;305;0;0" keyTimes="0;0.5833;0.6125;0.65;0.6667;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f7)">ollama run llama3.1</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;409;409;103.72;103.72" keyTimes="0;0.5833;0.6125;0.65;0.6667;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.5833;0.6125;0.65;0.6667;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f8"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;321;321;0;0" keyTimes="0;0.6667;0.6958;0.7333;0.75;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f8)">wal -i wallpaper.jpg</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;425;425;103.72;103.72" keyTimes="0;0.6667;0.6958;0.7333;0.75;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.6667;0.6958;0.7333;0.75;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f9"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;242;242;0;0" keyTimes="0;0.75;0.7792;0.8167;0.8333;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f9)">make &amp;&amp; ./a.out</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;346;346;103.72;103.72" keyTimes="0;0.75;0.7792;0.8167;0.8333;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.75;0.7792;0.8167;0.8333;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f10"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;448;448;0;0" keyTimes="0;0.8333;0.8625;0.9;0.9167;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f10)">rm -rf node_modules &amp;&amp; npm i</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;552;552;103.72;103.72" keyTimes="0;0.8333;0.8625;0.9;0.9167;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.8333;0.8625;0.9;0.9167;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+  <clipPath id="f11"><rect x="103.72" y="210" height="38" width="0">
+    <animate attributeName="width" values="0;0;52;52;0;0" keyTimes="0;0.9167;0.9458;0.9833;1.0;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f11)">:wq</text>
+  <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
+    <animate attributeName="x" values="103.72;103.72;155;155;103.72;103.72" keyTimes="0;0.9167;0.9458;0.9833;1.0;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.9167;0.9458;0.9833;1.0;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
 </g>
 </svg>
