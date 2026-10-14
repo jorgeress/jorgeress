@@ -8,8 +8,7 @@
   <a href="https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
 
-Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad. Me gusta entender cómo funcionan las cosas por dentro y medir si lo que hago funciona, no suponerlo.
-
+Estudio Ingeniería de Software en U-tad, con la especialización en Ciberseguridad.
 ### Con lo que trabajo
 
 <p align="left">
