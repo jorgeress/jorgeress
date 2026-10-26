@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://jorgeress.github.io"><img src="https://img.shields.io/badge/web-jorgeress.github.io-c792ea?style=flat-square&labelColor=0b0d12" alt="Web"></a>
   <a href="mailto:jgarciamartinezdev@proton.me"><img src="https://img.shields.io/badge/correo-proton.me-3ddc97?style=flat-square&labelColor=0b0d12" alt="Correo"></a>
-  <a href="https://www.linkedin.com/in/jorge-garc%C3%ADa-mart%C3%ADnez-1a2574292"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jorgegarciamartinezdev"><img src="https://img.shields.io/badge/LinkedIn-Jorge_García-0a66c2?style=flat-square&labelColor=0b0d12" alt="LinkedIn"></a>
 </p>
 
 Ciberseguridad, Linux y ML.
