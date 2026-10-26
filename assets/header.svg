@@ -34,11 +34,11 @@
     <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0;0.0292;0.0667;0.0833;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
   <clipPath id="f1"><rect x="103.72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;416;416;0;0" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;0;385;385;0;0" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="103.72" y="236" clip-path="url(#f1)">yara -r reglas/ ./muestras</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f1)">yara -r rules/ ./samples</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="103.72;103.72;520;520;103.72;103.72" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="103.72;103.72;488;488;103.72;103.72" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite"/>
     <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.0833;0.1125;0.15;0.1667;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
   <clipPath id="f2"><rect x="103.72" y="210" height="38" width="0">
@@ -50,11 +50,11 @@
     <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.1667;0.1958;0.2333;0.25;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
   <clipPath id="f3"><rect x="103.72" y="210" height="38" width="0">
-    <animate attributeName="width" values="0;0;496;496;0;0" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="width" values="0;0;480;480;0;0" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite" calcMode="linear"/>
   </rect></clipPath>
-  <text class="tipo" x="103.72" y="236" clip-path="url(#f3)">git commit -m "arreglado, creo"</text>
+  <text class="tipo" x="103.72" y="236" clip-path="url(#f3)">git commit -m "fixed, I think"</text>
   <rect class="cursor" y="212" width="3" height="30" visibility="hidden">
-    <animate attributeName="x" values="103.72;103.72;599;599;103.72;103.72" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="103.72;103.72;584;584;103.72;103.72" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite"/>
     <animate attributeName="visibility" values="hidden;visible;visible;visible;hidden;hidden" keyTimes="0;0.25;0.2792;0.3167;0.3333;1" dur="43.2s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
   <clipPath id="f4"><rect x="103.72" y="210" height="38" width="0">
